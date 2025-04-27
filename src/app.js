@@ -1,5 +1,4 @@
-import "./js/calc";
-import "./js/division";
-import "./js/plus";
-import "./js/multiply";
-import "./js/minus";
+import "./js/result";
+import "./js/type1";
+import "./js/type2";
+import "./js/type3";
